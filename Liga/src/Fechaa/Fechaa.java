@@ -1,12 +1,36 @@
 
+package Fechaa;
+
+
+/**
+*
+*
+* @author Juan
+*/
+
 public class Fechaa {
+	
+	// no package declaration
+	public class ClassInDefaultPackage {
+	}
+	
+	
+	hfdfh
+	/**
+	*
+	*
+	* @author Juan
+	*/
 
 	int dia;
+	
 	int mes;
 	int ano;
 	
 	
 	Fechaa(){
+		
+		
 		
 		this.dia=1;
 		this.mes=1;

@@ -26,7 +26,7 @@ public class Cliente {
 
 			e.printStackTrace();
 		}
-
+fdsfsf
 	}
 
 	void guardar() {
